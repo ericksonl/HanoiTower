@@ -1,2 +1,2 @@
 # HanoiTower
-A fun little game of Hanoi
+A fun little game of the Tower of Hanoi
