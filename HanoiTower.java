@@ -1,7 +1,6 @@
 /* Author: Liam Erickson
  * File: HanoiTower.java
  * Date: May 8th, 2020
- * Class: CS258 - Lab4-Part4 Extra Credit
  */
 
 
