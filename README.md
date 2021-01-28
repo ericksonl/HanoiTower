@@ -3,6 +3,8 @@ A fun little game of the Tower of Hanoi
 
 Created By: Liam Erickson May 8th, 2020
 
+To run this project simply export files to an IDE or other that will compile and run Java code. The prompts will appear in terminal, presenting you with the rules.
+
 The object of this game is to move all disks from stack 1 to stack 3.
 	Rules:
 	1. Only one disk may be moved at a time.
