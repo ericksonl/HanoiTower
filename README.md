@@ -1,5 +1,6 @@
 # HanoiTower
-A fun little game of the Tower of Hanoi
+A game simulation of the Tower of Hanoi
+This game was built using the java.util.Stack package to show understanding of stacks in Java.
 
 Created By: Liam Erickson May 8th, 2020
 
