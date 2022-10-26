@@ -1,12 +1,11 @@
 # HanoiTower
-A game simulation of the Tower of Hanoi
+A console version of Tower of Hanoi
 
 This game was built using the java.util.Stack package to show understanding of stacks in Java.
 
-Created By: Liam Erickson May 8th, 2020
+Created By: Liam Erickson May 8th, 2022
 
-To run this project simply export file to an IDE or other that will compile and run Java code. 
-The object of this game is to move all disks from stack 1 to stack 3. The prompts will appear in terminal, presenting you with the rules.
+The objective of this game is to move all disks from stack 1 to stack 3. The prompts will appear in terminal, presenting you with the rules.
 
 	Rules:
 	
